@@ -7,9 +7,9 @@ This document provides instructions and details to replicate the results of our 
 Getting Started
 
     1. Preparing Your Environment:
-        File: Forecast_and_evaluate_December_3_23.R
+        File: Forecast_and_evaluate_19092024.R
         Action: Change the working directory to the folder containing the data and scripts.
-        Example: setwd('C:/programming/Mortality Packages/src')
+        Example: setwd('C:/your/project/path')
 
     2. Human Mortality Database (HMD) Registration:
         Register an account at HMD to access the necessary mortality data (link: https://www.mortality.org/Account/Auth). 
